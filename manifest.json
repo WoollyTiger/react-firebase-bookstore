@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Bookstore react app",
+  "name": "Bookstore react app with Firebase",
   "icons": [
     {
       "src": "favicon.ico",

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-firebase-bookstore/static/css/main.4bace72f.css",
+    "main.js": "/react-firebase-bookstore/static/js/main.ce72d87c.js",
+    "static/js/787.e8167eb9.chunk.js": "/react-firebase-bookstore/static/js/787.e8167eb9.chunk.js",
+    "index.html": "/react-firebase-bookstore/index.html",
+    "main.4bace72f.css.map": "/react-firebase-bookstore/static/css/main.4bace72f.css.map",
+    "main.ce72d87c.js.map": "/react-firebase-bookstore/static/js/main.ce72d87c.js.map",
+    "787.e8167eb9.chunk.js.map": "/react-firebase-bookstore/static/js/787.e8167eb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bace72f.css",
+    "static/js/main.ce72d87c.js"
+  ]
+}
